@@ -1,0 +1,7 @@
+html, body, h1, form{
+    height: 100px
+    width: 100%;
+    text-align: center;
+    color: red;
+  background: black;
+  }
